@@ -11,3 +11,7 @@ From here you can find all of my projects, listed below.
 [My Lab](https://whcampbell.github.io/Ivys-Laboratory/)
 
 <img src="./My_Castle.png"/>
+
+<style>
+  body {background-color:"#FFA500"}
+</style>
