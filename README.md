@@ -13,5 +13,5 @@ From here you can find all of my projects, listed below.
 <img src="./My_Castle.png"/>
 
 <style>
-  body {background-color:"#FFA500"}
+  body {background-color:"#FFDD80"}
 </style>
