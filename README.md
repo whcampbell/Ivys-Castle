@@ -10,5 +10,4 @@ From here you can find all of my projects, listed below.
 
 [My Lab](https://whcampbell.github.io/Ivys-Laboratory/)
 
-![castle]
-(./My_Castle.png)
+<img src="./My_Castle.png"/>
