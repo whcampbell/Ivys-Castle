@@ -10,6 +10,8 @@ From here you can find all of my projects, listed below.
 
 [SauceBox - My second game](https://whcampbell.github.io/SauceBox/)
 
+[Tales and Legends](https://whcampbell.github.io/Stories/)
+
 [My Lab](https://whcampbell.github.io/Ivys-Laboratory/)
 
 <img src="./My_Castle.png"/>
