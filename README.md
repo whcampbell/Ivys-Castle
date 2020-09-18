@@ -1,11 +1,13 @@
 # Ivy's Castle
 
 ## Welcome!
+<html>
 <p style="color: black">
 Thank you for coming! You look excellent.
 
 From here you can find all of my projects, listed below. 
 <p>
+</html>
 
 ### Enjoy your adventure!
 [Gunslinger- My first game](https://whcampbell.github.io/Gunslinger/)
