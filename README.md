@@ -18,6 +18,7 @@ From here you can find all of my projects, listed below.
 
 <img src="./My_Castle.png"/>
 
-<style>
-  body {background-color:"#FFDD80"}
-</style>
+<html>
+  <body id="body"/>
+  <script src="color.js"/>
+<html>
