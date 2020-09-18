@@ -20,9 +20,8 @@
   <br>
   <p>
   <script src="color.js"/>
-  <img src="./My_Castle.png"/>
 <html>
-
+<img src="./My_Castle.png"/>
 
 
 
