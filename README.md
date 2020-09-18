@@ -5,7 +5,7 @@
   <p style="color: black">
   Thank you for coming! You look excellent. <br>
 
-  From here you can find all of my projects, listed above. <br>
+  From here you can find all of my projects, listed below. <br>
   <br>
   </p>
 </html>
