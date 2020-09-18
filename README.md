@@ -1,15 +1,6 @@
 # Ivy's Castle
 
-## Welcome!
-<html>
-<p style="color: black">
-Thank you for coming! You look excellent.
-
-From here you can find all of my projects, listed below. 
-<p>
-</html>
-
-### Enjoy your adventure!
+## Enjoy your adventure!
 [Gunslinger- My first game](https://whcampbell.github.io/Gunslinger/)
 
 [SauceBox - My second game](https://whcampbell.github.io/SauceBox/)
@@ -20,9 +11,18 @@ From here you can find all of my projects, listed below.
 
 [My Lab](https://whcampbell.github.io/Ivys-Laboratory/)
 
-<img src="./My_Castle.png"/>
-
 <html>
   <body id="body"/>
+  <p style="color: black">
+  Thank you for coming! You look excellent. <br>
+
+  From here you can find all of my projects, listed above. <br>
+  <br>
+  <p>
   <script src="color.js"/>
+  <img src="./My_Castle.png"/>
 <html>
+
+
+
+
