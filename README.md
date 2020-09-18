@@ -18,10 +18,11 @@
 
   From here you can find all of my projects, listed above. <br>
   <br>
-  <p>
+  </p>
+  <img src="./My_Castle.png"/>
   <script src="color.js"/>
-<html>
-<img src="./My_Castle.png"/>
+</html>
+
 
 
 
