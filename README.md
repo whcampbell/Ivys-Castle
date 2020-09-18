@@ -10,6 +10,8 @@ From here you can find all of my projects, listed below.
 
 [SauceBox - My second game](https://whcampbell.github.io/SauceBox/)
 
+[Wizart Gaem - A new collaboration!](https://whcampbell.github.io/Wizart-Log/)
+
 [Tales and Legends](https://whcampbell.github.io/Stories/)
 
 [My Lab](https://whcampbell.github.io/Ivys-Laboratory/)
