@@ -1,5 +1,15 @@
 # Ivy's Castle
 
+<html>
+  <body id="body"/>
+  <p style="color: black">
+  Thank you for coming! You look excellent. <br>
+
+  From here you can find all of my projects, listed above. <br>
+  <br>
+  </p>
+</html>
+
 ## Enjoy your adventure!
 [Gunslinger- My first game](https://whcampbell.github.io/Gunslinger/)
 
@@ -12,13 +22,6 @@
 [My Lab](https://whcampbell.github.io/Ivys-Laboratory/)
 
 <html>
-  <body id="body"/>
-  <p style="color: black">
-  Thank you for coming! You look excellent. <br>
-
-  From here you can find all of my projects, listed above. <br>
-  <br>
-  </p>
   <img src="./My_Castle.png"/>
   <script src="color.js"/>
 </html>
