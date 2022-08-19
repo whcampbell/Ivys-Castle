@@ -5,7 +5,7 @@
   <p style="color: black">
   Thank you for coming! You look excellent. <br>
 
-  From here you can find some of my demos, listed below. I would like to make it clear that all of them were tossed together in a day or less with no premade assets. In other words, this is my excuse for things looking rough. Hope you find things to your liking anyways. <br>
+  From here you can find some of my demos, listed below. Hope you find things to your liking. <br>
   <br>
   </p>
 </html>
